@@ -1,0 +1,6 @@
+D:\Jenkins\Problems\Build two jobs\C#\Event Management\Event Management\bin\Debug\Event Management.exe.config
+D:\Jenkins\Problems\Build two jobs\C#\Event Management\Event Management\obj\Debug\Event Management.csprojResolveAssemblyReference.cache
+D:\Jenkins\Problems\Build two jobs\C#\Event Management\Event Management\bin\Debug\Event Management.exe
+D:\Jenkins\Problems\Build two jobs\C#\Event Management\Event Management\bin\Debug\Event Management.pdb
+D:\Jenkins\Problems\Build two jobs\C#\Event Management\Event Management\obj\Debug\Event Management.exe
+D:\Jenkins\Problems\Build two jobs\C#\Event Management\Event Management\obj\Debug\Event Management.pdb
